@@ -1,0 +1,33 @@
+:root {
+    --fonts: 'Noto Sans', sans-serif;
+}
+
+.mb-3 {
+    color: wheat;
+    font-weight: 500;
+    letter-spacing: 5px;
+    font-family: var(--fonts);
+}
+
+.form-control {
+    font-family: var(--fonts);
+    width: 15%;
+}
+
+div h5 {
+    margin-bottom: 1.5rem;
+    font-family: var(--fonts);
+}
+
+.btn {
+    font-family: var(--fonts);
+}
+
+#current-city,
+.mb-0 {
+    font-family: var(--fonts);
+}
+
+h3 {
+    font-family: var(--fonts);
+}
