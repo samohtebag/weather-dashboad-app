@@ -10,6 +10,7 @@
 
 
 <a name="desc"></a>
+
 ## 1. Description
 
 This is a weather dashboard I built using a combination of HTML, CSS, Javascript, jQuery, Moment.JS, and API Usage from Open Weather Map.
@@ -23,6 +24,7 @@ We also show a 5 day forecast, displaying the date of that forecast alongside th
 
 
 <a name="navigation"></a>
+
 ## 2. Where to go!
 
 [github live site] https://samohtebag.github.io/weather-dashboad-app/
@@ -36,6 +38,7 @@ We also show a 5 day forecast, displaying the date of that forecast alongside th
 
 
 <a name="contributions"></a>
+
 ## 3. Contributions
 
 Thanks to the following people for their insights and perspectives:
@@ -54,7 +57,7 @@ Jason Barbanel
 
 <a name="license"></a>
 
-## 6. License
+## 4. License
 
 MIT License
 
