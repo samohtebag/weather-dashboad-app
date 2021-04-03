@@ -45,16 +45,15 @@ We also show a 5 day forecast, displaying the date of that forecast alongside th
 
 Thanks to the following people for their insights and perspectives:
 
-Ben Durham
+Ben Durham: [https://github.com/bdurham227]
 
-Patrick Walker
+Patrick Walker: [https://github.com/pat31477]
 
-Clifford Morin
+Clifford Morin [https://github.com/CliffordMorin]
 
-Takuya Matsumoto
+Takuya Matsumoto: [https://github.com/TakuyaMats]
 
-Jason Barbanel
-
+Jason Babanel: [https://github.com/Jbarbss]
 
 
 <a name="license"></a>
