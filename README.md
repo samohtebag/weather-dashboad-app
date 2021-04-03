@@ -36,7 +36,7 @@ We also show a 5 day forecast, displaying the date of that forecast alongside th
 
 ![Screenshot](https://res.cloudinary.com/bizzaboprod/image/upload/q_auto:best,c_crop,g_custom/v1616272430/vax4tfwcbqop31fguk5l.png)
 
-![Gif](weather-dashboad-app/assets/recording.gif)
+![Gif](https://i.imgur.com/mNOnzpG.gif)
 
 
 
